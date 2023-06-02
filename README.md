@@ -1,4 +1,4 @@
-# Estudos sobre Classes e Orientação a Objeto
+# Estudos sobre Classes e Orientação a Objetos
 
 Este é um repositório dedicado a um projeto/exercício de Classes, Orientação a Objetos e exercícios complementares.
 
